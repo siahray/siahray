@@ -20,7 +20,7 @@
 ## 🔭 What I'm Up To
 
 - 🌱 Currently learning: **AI Automations**
-- 🛠️ Currently building: **MetroFlow**
+- 🛠️ Currently building: **WorkSprout**
 - 🤝 Open to: **internships / collaborations / freelance**
 
 ## 💻 Tech Stack
