@@ -53,8 +53,8 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [RayTech Web](https://github.com/siahray/repo-name) | RayTech Official Website | `Next.js` `TypeScript` |
-| [Vineyard Web](https://github.com/siahray/repo-name) | NGO Web App | `Vite` `TypeScript` |
+| [RayTech Web](https://ray-tech-web.vercel.app/) | RayTech Official Website | `Next.js` `TypeScript` |
+| [Vineyard Web](https://vineyard-philippines.vercel.app/) | NGO Web App | `Vite` `TypeScript` |
 | [Portfolio](https://siah-dev-portfolio.vercel.app) | My personal portfolio site | `Vite`  `Vercel` |
 
 ## 📊 GitHub Stats
